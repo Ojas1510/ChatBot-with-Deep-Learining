@@ -1,0 +1,6 @@
+This is the data obtained after processing the .json files.
+Data will be in the form of Data Base files and you can acess the files using
+"DB Browser for SQLite" software.
+*Each time frame will contain combinations of paired parent and parent reply 
+collums 
+Note: There might be some collums with Null parent beacuse the cleanup was set to 1000000 for faster pocessing.
