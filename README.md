@@ -15,7 +15,7 @@ Welcome to the Chatbot project! This readme provides a comprehensive guide to cr
    - Evaluation Metrics
 - Interactive Mode 
 - Batch Processing 
-
+- Acknowledgements
 ## Introduction
 This project aims to create a chatbot using Neural Machine Translation (NMT) techniques. The chatbot can take text input and generate text responses. The project utilizes a seq2seq architecture from TensorFlow, employing an encoder-decoder model. This readme explains the entire process, from acquiring data to using the trained chatbot.
 
