@@ -37,6 +37,7 @@ Now, let's process the Reddit comment data to structure it for training:
 After the database is populated with Reddit comment data, create training and testing data files.
 Organize the data into "parent" and "reply" text files. Each line in the "parent" file corresponds to a parent comment, and each line in the "reply" file corresponds to a response to the parent comment.
 
+
 # Setting Up the NMT Model
 
 To tarin model for the chatbot, follow these steps:
