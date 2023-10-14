@@ -22,7 +22,15 @@ This project aims to create a chatbot using Neural Machine Translation (NMT) tec
 ## Data Preparation
  
 ### Acquiring Data
-To build a chatbot, you need training data. The project proposes using publicly available Reddit comment data. You can acquire the data from the Reddit comment dataset and possibly from a torrent file.
+To build a chatbot, you need training data. The project proposes using publicly available Reddit comment data. You can acquire the data from the Reddit comment dataset <br/>
+```bash
+ https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/?st=j9udbxta&sh=69e4fee7
+```
+
+And possibly from a torrent file. <br/>
+```bash
+https://mega.nz/file/ysBWXRqK#yPXLr25PgJi184pbJU3GtnqUY4wG7YvuPpxJjEmnb9A
+```
 
 ### Database Setup
 Create a SQLite database where you'll store the acquired Reddit comment data. The database will hold information like comment IDs, parent IDs, comment text, and other relevant fields.
